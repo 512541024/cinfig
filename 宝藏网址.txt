@@ -22,4 +22,12 @@ https://segmentfault.com/a/1190000009162306                                     
 
 https://www.sojson.com/regex/                                                                             //在线json处理网址
 
-https://www.jianshu.com/p/27fd3754bb9c                                                            //SpEL表达式
+https://www.jianshu.com/p/27fd3754bb9c                                                             //SpEL表达式
+
+https://www.cnblogs.com/liuyj-top/p/12976396.html                                             //springboot - mybatis的yml属性配置
+
+https://blog.csdn.net/TMLtea/article/details/82227285		             //spring boot 实现 Kurento 一对一浏览器视频聊天
+
+http://www.52yzzy.com/forum.php?mod=viewthread&tid=1508	             //SpringBoot/Netty+MUI全栈打造超级聊天系统视频教程
+							        
+https://blog.csdn.net/weixin_44268792/article/details/106243014	             //Spring Boot WebSocket + WenRTC实现视频通话功能
